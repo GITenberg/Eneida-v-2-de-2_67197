@@ -1,0 +1,41 @@
+_repo: Eneida-v-2-de-2_67197
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Caro, Miguel Antonio
+    aliases:
+    - Caro, Michaelis Antonii
+    - Tobar, Miguel Antonio Caro
+    - Caro, Michael Antonius
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '51468'
+    url: http://www.gutenberg.org/2009/agents/51468
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Miguel_Antonio_Caro
+    - https://es.wikipedia.org/wiki/Miguel_Antonio_Caro
+creator:
+  author:
+    agent_name: Marón, Publio Virgilio
+    gutenberg_agent_id: '54151'
+    url: http://www.gutenberg.org/2009/agents/54151
+description: ''
+gutenberg_issued: '2022-01-19'
+identifiers:
+  gutenberg: '67197'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000006589
+pgterms:marc905: 20180427010835virgilioma
+pgterms:marc906: '1905'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This ebook was produced from images generously made
+  available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: Spain :LibrerÃ­a de Perlado, PÃ¡ez y C.Âª (Sucesores de Hernando),1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Eneida; v. 2 de 2
+url: http://www.gutenberg.org/ebooks/67197
