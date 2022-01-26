@@ -14,12 +14,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Miguel_Antonio_Caro
     - https://es.wikipedia.org/wiki/Miguel_Antonio_Caro
+covers:
+- cover_type: archival
+  image_path: 67197-h/images/cover.jpg
 creator:
   author:
     agent_name: Marón, Publio Virgilio
     gutenberg_agent_id: '54151'
     url: http://www.gutenberg.org/2009/agents/54151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67197#Eneida-v-2-de-2
 gutenberg_issued: '2022-01-19'
 identifiers:
   gutenberg: '67197'
